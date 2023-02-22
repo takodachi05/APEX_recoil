@@ -2,6 +2,7 @@ local set_key1 = 4
 local set_key2 = 5
 local off_key = 6
 ---gun table---
+---yeah---
 local recoil_table = {}
 recoil_table["R301"] = {
     --vertical = {-1,1,-2,1,1,-1,0,-1,-1,-1,0,1,4,3,3,3,1,-1,-2,-2,-2,-2,-2,-2,0,1,-1,3,0},
